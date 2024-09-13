@@ -1,6 +1,6 @@
 # Moments API
 
-A **Moments API** é a parte de backend da aplicação Moments, responsável por gerenciar o armazenamento e fornecimento das fotos e momentos enviados pelos usuários. A API foi desenvolvida utilizando o framework AdonisJS, que facilita a construção de APIs robustas e escaláveis.
+A **Moments API** é a parte de backend da aplicação Moments (https://github.com/lucasvieiraz/moments_angular), responsável por gerenciar o armazenamento e fornecimento das fotos e momentos enviados pelos usuários. A API foi desenvolvida utilizando o framework AdonisJS, que facilita a construção de APIs robustas e escaláveis.
 
 ## Funcionalidades
 
